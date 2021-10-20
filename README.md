@@ -1,2 +1,5 @@
 # NBAForum
-NBA Discussion Forum built with Django
+ Online forum for discussing NBA topics.
+ 
+ ## Tech Stack
+ Python, Django
